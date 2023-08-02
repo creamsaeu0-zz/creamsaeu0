@@ -1,7 +1,7 @@
 - 👋 Hi, I’m lee.sanghyeong
 - 👀 I’m interested in Apple
 - 🌱 I’m currently learning Apple
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on..
 - 📫 How to reach me?
 
 <!---
